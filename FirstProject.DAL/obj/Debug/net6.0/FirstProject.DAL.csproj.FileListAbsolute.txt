@@ -1,0 +1,14 @@
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\FirstProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\FirstProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\FirstProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\FirstProject.DAL.AssemblyInfo.cs
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\FirstProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net6.0\FirstProject.DAL.deps.json
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net6.0\FirstProject.DAL.runtimeconfig.json
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net6.0\FirstProject.DAL.dll
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net6.0\FirstProject.DAL.pdb
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\FirstProject.DAL.dll
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\refint\FirstProject.DAL.dll
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\FirstProject.DAL.pdb
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\FirstProject.DAL.genruntimeconfig.cache
+C:\Users\Rama 2\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net6.0\ref\FirstProject.DAL.dll
